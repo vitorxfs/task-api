@@ -1,2 +1,2 @@
 # task-api
-A task manager api in nodeJS using express and mongoose.
+A task manager api for a NodeJS course. Made with express and mongoose.
